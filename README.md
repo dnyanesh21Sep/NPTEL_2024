@@ -6,18 +6,19 @@ I am sharing all my codes I did during preparation of Exam and my learning proce
 You need to understand these concepts first before solving assignments weekwise:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Week-1 => Basic Concepts.
-Week-2 => Methods, Functions and Encapsulation.
-Week-3 => Access Specifiers, Static scope, Info Hiding.
-Week-4 => Packages and Interfaces(Basics).
-Week-5 => Interfaces Advanced and Basics of Exception Handling.
-Week-6 => Multithreading and IOStream.
-Week-7 => IOStream advanced usage and Applet Programming(basics).
-Week-8 => Applet Programming advance concepts and Abstract Window Toolkit(AWT).
-Week-9 => Swing Programming and Abstract Window Toolkit(AWT).
-Week-10 => Networking with Java.
-Week-11 => Java DataBase Connectivity(JDBC) in detail.
-Week-12 => Case Studies.
+Week-1 => Basic Concepts.<br>
+Week-2 => Methods, Functions and Encapsulation.<br>
+Week-3 => Access Specifiers, Static scope, Info Hiding.<br>
+Week-4 => Packages and Interfaces(Basics).<br>
+Week-5 => Interfaces Advanced and Basics of Exception Handling.<br>
+Week-6 => Multithreading and IOStream.<br>
+Week-7 => IOStream advanced usage and Applet Programming(basics).<br>
+Week-8 => Applet Programming advance concepts and Abstract Window Toolkit(AWT).<br>
+Week-9 => Swing Programming and Abstract Window Toolkit(AWT).<br>
+Week-10 => Networking with Java.<br>
+Week-11 => Java DataBase Connectivity(JDBC) in detail.<br>
+Week-12 => Case Studies.<br>
+
 Additional Resources
 Oracle Java Documentation
 Java Tutorials by Oracle
