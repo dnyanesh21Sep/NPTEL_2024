@@ -22,7 +22,7 @@ Week-11 => Java DataBase Connectivity(JDBC) in detail.<br>
 Week-12 => Case Studies.<br>
 
 Additional Resources<br>
-<ul>Oracle Java Documentation</ul>
-<ul>Java Tutorials by Oracle</ul>
+<ul>1.Oracle Java Documentation</ul>
+<ul>2.Java Tutorials by Oracle</ul>
 <br>
 Feel free to explore the content in each week's folder for lectures, code examples, assignments, and additional resources!
