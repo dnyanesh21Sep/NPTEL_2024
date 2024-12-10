@@ -5,8 +5,7 @@ This will also help you practice Java.
 I am sharing all my codes I did during preparation of Exam and my learning process.
 You need to understand these concepts first before solving assignments weekwise:
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Week-1 => Basic Concepts.
 Week-2 => Methods, Functions and Encapsulation.
 Week-3 => Access Specifiers, Static scope, Info Hiding.
