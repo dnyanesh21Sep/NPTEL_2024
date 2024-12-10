@@ -5,7 +5,7 @@ This will also help you practice Java.
 I am sharing all my codes I did during preparation of Exam and my learning process.
 You need to understand these concepts first before solving assignments weekwise:
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Week-1 => Basic Concepts.<br>
 Week-2 => Methods, Functions and Encapsulation.<br>
 Week-3 => Access Specifiers, Static scope, Info Hiding.<br>
@@ -19,7 +19,8 @@ Week-10 => Networking with Java.<br>
 Week-11 => Java DataBase Connectivity(JDBC) in detail.<br>
 Week-12 => Case Studies.<br>
 
-Additional Resources
-Oracle Java Documentation
-Java Tutorials by Oracle
+Additional Resources<br>
+<ul>Oracle Java Documentation</ul>
+<ul>Java Tutorials by Oracle</ul>
+<br>
 Feel free to explore the content in each week's folder for lectures, code examples, assignments, and additional resources!
